@@ -1,3 +1,7 @@
+# Instarocket Web
+
+Projeto criado para estudo baseado na 7ª edição da Semana OmniStack da [Rocketseat](https://rocketseat.com.br/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
